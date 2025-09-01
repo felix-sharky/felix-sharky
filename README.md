@@ -1,4 +1,4 @@
-# Hi, I'm Felix “Sharky” 👋
+# Hi, I'm Felix 👋
 
 **He/They • 24 • Berlin, Germany**  
 Backend & API Developer • Java + TypeScript Enthusiast  
@@ -31,7 +31,7 @@ Lover of games, photography, and code.
 ## 🎮 My Steam Profile
 
 <p align="center">
-    <img src="https://steam-widget.com/widget/img?id=76561198120613721&gameList=TOP_GAMES_RECENT&purpose=github&width=350" alt="Steam Widget" />
+    <img src="https://steam-widget.com/widget/img?id=76561198120613721&gameList=TOP_GAMES_RECENT&purpose=github" alt="Steam Widget" width="350" />
 </p>
 
 ---
