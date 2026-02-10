@@ -19,7 +19,7 @@ Lover of games, photography, and code.
 
 <p align="center">
   <a href="https://github.com/felix-sharky/steam-widget">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=felix-sharky&repo=steam-widget&theme=dark" />
+    <img src="https://github-readme-stats.gamerzone.cloud/api/pin/?username=felix-sharky&repo=steam-widget&theme=dark" />
   </a>
   <!--<a href="https://github.com/teamspeak-bot/teamspeak-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=teamspeak-bot&repo=teamspeak-bot&theme=dark" />
